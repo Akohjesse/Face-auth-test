@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "face-api.js": "^0.22.2",
+    "nginx": "^1.0.3"
+  },
+  "name": "face-api-tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
